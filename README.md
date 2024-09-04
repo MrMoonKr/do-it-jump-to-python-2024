@@ -3,8 +3,7 @@
 학생들을 위한 직무 교육( OJT, On the job Training )을 위해서 클론 하였습니다.  
 책 관련 링크 입니다.  
 
-- [Do it! 점프 투 파이썬](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317941024)  
-
+- [Do it ! 점프 투 파이썬](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=317941024)  
 -  
 
 
